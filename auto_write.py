@@ -5,6 +5,5 @@ def type(str):
         time.sleep(1)
         keyboard.write(str)
 
-type("""  """) #type something in the between for auto writing
-
+type(""" Who let the dogs out """) #type something in the between for auto writing
 
